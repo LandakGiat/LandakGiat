@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Developer og LandakGiat
+I'm a Developer of LandakGiat
 
 - 📖 I’m currently learning Python
 
