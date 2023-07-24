@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm **LandakGiat**
+I'm a Developer og LandakGiat
 
-- 🔭 I’m currently working on LandakGiat
-- 🌱 I’m currently learning everyting 😱
+- 📖 I’m currently learning Python
 
 # Github Stats
 <div align="center">
