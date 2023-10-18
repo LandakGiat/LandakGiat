@@ -2,8 +2,8 @@
 
 I am Abyan Putra Aan, I am the developer and founder of LandakGiat
 
-- 📖 I'm learning the Python programming language
-- 🖥️ and I'm also learning ethical hacking
+- 📖 I'm learning the Java programming language
+- 🤖 and I'm also learning Android
 
 # Github Stats
 <div align="center">
